@@ -1,4 +1,4 @@
-# ByteArk Player React sending event to Google Analytics Example
+# Example of ByteArk Player React send event to Google Analytics
 
 This project is an example usage for sending event to google analytic from ByteArk Player React.
 
