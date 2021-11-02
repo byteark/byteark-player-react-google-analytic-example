@@ -31,4 +31,4 @@ window.gtag('event', 'ACTION', { metadata });
 
 ## Read more
 - [ByteArk Player React](https://github.com/byteark/byteark-player-react)
-- [Send event to Google Analytic](https://developers.google.com/analytics/devguides/collection/gtagjs/sending-data])
+- [Send event to Google Analytic](https://developers.google.com/analytics/devguides/collection/gtagjs/sending-data)
